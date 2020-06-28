@@ -1,13 +1,3 @@
-# Website - runenielsen.com
+# Modest theme for Hugo
 
-## Develop
-
-``` sh
-hugo serve
-```
-
-## Deploy
-
-``` sh
-./deploy.sh
-```
+Modest is a simple blog theme for the Hugo static site generator.
