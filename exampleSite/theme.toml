@@ -1,9 +1,12 @@
-baseURL = ""
-languageCode = "en-us"
-title = "Modest title"
+name = "Modest"
+license = "MIT"
+licenselink = "https://github.com/runeanielsen/modest/blob/master/LICENSE"
+description = "A simple and modest theme for Hugo"
+homepage = "https://github.com/runeanielsen/modest"
+tags = ["blog", "simple", "syntax highlighting", "responsive"]
+features = ["blog", "simple", "syntax highlighting", "responsive"]
+min_version = "0.58"
 
-[params]
-    description = "My description"
-    github = "https://github.com"
-    linkedin = "https://linkedin.com"
-    twitter = "https://twitter.com"
+[author]
+  name = "runeanielsen"
+  homepage = "https://runenielsen.com"
