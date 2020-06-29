@@ -49,12 +49,12 @@ New paragraph.
 ```markdown
 Image
 
-![Web Image](https://cdn.pixabay.com/photo/2020/04/24/10/23/pier-5086290_960_720.jpg)
+![Web Image](https://images.freeimages.com/images/large-previews/256/spring-1376144.jpg)
 ```
 
 Web Image
 
-![Web Image](https://i.loli.net/2019/04/13/5cb1d33cf0ee6.jpg)
+![Web Image](https://images.freeimages.com/images/large-previews/256/spring-1376144.jpg)
 
 # Block Quotes
 
@@ -128,29 +128,3 @@ function doIt() {
 - First item
 - Second item
 - Third item
-
-# Math
-
-```
-$$
-evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i}
-$$
-
-$$
-AveP = \int_0^1 p(r) dr
-$$
-
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-```
-
-$$
-evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i}
-$$
-
-$$
-AveP = \int_0^1 p(r) dr
-$$
-
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
