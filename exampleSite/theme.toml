@@ -1,0 +1,9 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Modest title"
+
+[params]
+    description = "My description"
+    github = "https://github.com"
+    linkedin = "https://linkedin.com"
+    twitter = "https://twitter.com"
