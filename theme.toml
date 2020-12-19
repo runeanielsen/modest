@@ -8,5 +8,5 @@ features = ["blog", "simple", "syntax highlighting", "responsive"]
 min_version = "0.58"
 
 [author]
-name = "runeanielsen"
-homepage = "https://runenielsen.com"
+    name = "Rune Andreas Nielsen"
+    homepage = "https://runenielsen.com"
