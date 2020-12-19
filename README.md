@@ -6,7 +6,7 @@ Modest is a simple responsive blog theme for the Hugo static site generator.
 
 ## Showcase
 
-![showcase](./images/desktop.png)
+![showcase](./images/screenshot.png)
 
 ## Install
 
