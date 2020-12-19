@@ -1,4 +1,3 @@
-
 name = "Modest"
 license = "MIT"
 licenselink = "https://github.com/runeanielsen/modest/blob/master/LICENSE"
@@ -9,5 +8,5 @@ features = ["blog", "simple", "syntax highlighting", "responsive"]
 min_version = "0.58"
 
 [author]
-  name = "runeanielsen"
-  homepage = "https://runenielsen.com"
+name = "runeanielsen"
+homepage = "https://runenielsen.com"
