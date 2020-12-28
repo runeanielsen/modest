@@ -1,3 +1,4 @@
+theme = "modest"
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Modest title"
