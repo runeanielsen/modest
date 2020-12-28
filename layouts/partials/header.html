@@ -7,6 +7,7 @@
         </div>     
     </div>
     <div class="header-collection">
+        {{ if .Site.Params.github }}
         <div class="header-item">
             <a class="header-item__link" target="_blank" href="{{ .Site.Params.github }}">
                 <p class="header-item__icon">
@@ -14,6 +15,9 @@
                 </p>
             </a>
         </div>
+        {{ end }}
+
+        {{ if .Site.Params.twitter }}
         <div class="header-item">
             <a class="header-item__link" target="_blank" href="{{ .Site.Params.twitter }}">
                 <p class="header-item__icon">
@@ -21,12 +25,16 @@
                 </p>
             </a>
         </div>
+        {{ end }}
+
+        {{ if .Site.Params.linkedin }}
         <div class="header-item">
             <a class="header-item__link" target="_blank" href="{{ .Site.Params.linkedin }}">
                 <p class="header-item__icon">
                     <i class="fab fa-linkedin"></i>
                 </p> 
             </a>
-        </div>    
+        </div>
+        {{ end }}
     </div>
 </header>

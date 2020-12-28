@@ -5,6 +5,7 @@ title = "Modest example site"
 
 [params]
     description = ""
-    github = ""
-    linkedin = ""
-    twitter = ""
+    github = "https://examplesite.com"
+    linkedin = "https://examplesite.com"
+    twitter = "https://examplesite.com"
+
