@@ -18,11 +18,11 @@ git clone https://github.com/runeanielsen/modest themes/modest
 
 ## Development
 
+To run the project, cd into `./exampleSite` and start the hugo server.
+
 ```sh
-cd modest/exampleSite
 hugo server -t ../..
 ```
-
 
 ## License
 
